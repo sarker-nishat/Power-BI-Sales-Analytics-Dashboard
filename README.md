@@ -17,4 +17,10 @@ Developed a fully interactive **Power BI dashboard** for analyzing sales perform
 - Customer Age filter  
 
 ## Dashboard Preview
-![Dashboard Preview](Hospital_ER_Dashboard.png)
+![Dashboard Preview](https://github.com/sarker-nishat/Power-BI-Sales-Analytics-Dashboard/blob/c9751a9e987c32284756d82a5f45cd7d1138d80c/Sales_Dashboard.png)
+
+
+## 📞 Contact
+If you want to discuss Power BI, Data Analysis, or dashboard development—feel free to connect!
+
+🔗 LinkedIn: *(https://www.linkedin.com/in/thenishatsarker/)*
