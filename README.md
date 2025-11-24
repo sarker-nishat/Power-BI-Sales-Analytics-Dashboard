@@ -16,3 +16,5 @@ Developed a fully interactive **Power BI dashboard** for analyzing sales perform
 - Mobile Model filter  
 - Customer Age filter  
 
+## Dashboard Preview
+![Dashboard Preview](Hospital_ER_Dashboard.png)
